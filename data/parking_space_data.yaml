@@ -1,0 +1,10 @@
+# K:/DESKTOP_FILES/Machine Learning/computer vision/yolov5/images/train
+train: ../images/train
+val:  ../images/test
+test: ../images/val
+
+# number of classes
+nc: 2
+
+# class names
+names: ["space-occupied", "space-empty"]
